@@ -1,0 +1,3 @@
+Built-in image generation used for replacements.
+NPC sheets: preserve characters, clothing, colors, rows and direction columns front/left/right/back; slim Japanese RPG field proportions, smaller heads, longer torso and legs, approximately 4.5 heads tall, crisp detailed pixel art, transparent background, generous gutters.
+Vehicles: 5 rows x 2 columns, blue sedan, white minivan, red kei, green truck, yellow taxi; left column faces left with roof visible, right column overhead hood points down; detailed pixel art, isolated transparent sprites, no labels or road.
